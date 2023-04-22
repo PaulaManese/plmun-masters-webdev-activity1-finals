@@ -1,0 +1,62 @@
+.mystyle {
+    border: 5px solid white !important;
+    text-align: center;
+    color: white;
+
+}
+
+.mystyle-two {
+    border: 5px solid white !important;
+    text-align: center;
+    background-color: darkgrey;
+    color: white;
+    
+}
+
+.mystyle-three {
+    border: 5px solid white !important;
+    text-align: center;
+    background-color: darkgrey;
+    color: white;
+}
+
+
+.navbar {
+    border: 19px solid white !important;
+    text-align: center;
+    background-color: darkgrey;
+    color: white;
+
+}
+
+.mystyle-four {
+    border: 5px solid white !important;
+    text-align: center;
+    background-color: darkgrey;
+    color: black;
+}
+
+.navbar-text {
+    font-size: 35px;
+}
+
+
+.mystyle-five {
+    border: 20px solid white !important;
+    text-align: center;
+    background-color: darkgrey;
+    color: black;
+}
+
+
+.align-right { 
+    float: right 
+}
+
+
+.mystyle-six {
+    border: 20px solid white !important;
+    text-align: center;
+    background-color: darkgrey;
+    color: black;
+}
